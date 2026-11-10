@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_AELD_4P2_DK_PATH/package/aesd-assignments/Config.in"
